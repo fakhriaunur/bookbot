@@ -1,2 +1,2 @@
 # bookbot
-bot for making book from pages
+bot for making book from scattered pages
